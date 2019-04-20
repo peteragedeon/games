@@ -437,13 +437,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-12 17:32:20 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2018-08-12 17:32:20 -0400"
     },
@@ -619,16 +619,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2018-07-19 17:50:36 -0400",
       "minecraft:forest": "2018-07-19 17:46:48 -0400",
+      "minecraft:mountains": "2018-07-19 17:50:36 -0400",
       "minecraft:desert_hills": "2018-07-19 17:55:38 -0400",
       "minecraft:desert": "2018-07-19 17:51:40 -0400",
       "minecraft:birch_forest": "2018-07-19 17:52:29 -0400",
       "minecraft:deep_lukewarm_ocean": "2019-04-20 09:18:58 -0400",
       "minecraft:beach": "2018-07-19 18:02:42 -0400",
       "minecraft:dark_forest": "2018-08-12 17:12:09 -0400",
-      "minecraft:river": "2018-07-19 17:51:03 -0400",
       "minecraft:lukewarm_ocean": "2018-08-19 15:52:40 -0400",
+      "minecraft:river": "2018-07-19 17:51:03 -0400",
       "minecraft:birch_forest_hills": "2018-08-19 15:54:53 -0400",
       "minecraft:wooded_hills": "2018-07-19 17:51:46 -0400",
       "minecraft:plains": "2018-07-19 17:51:50 -0400"
@@ -857,13 +857,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-19 18:16:08 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane": {
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-19 18:16:08 -0400"
     },
@@ -911,13 +911,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
+  "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-07-19 18:16:08 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane": {
+  "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-07-19 18:16:08 -0400"
     },
