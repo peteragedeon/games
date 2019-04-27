@@ -635,15 +635,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2019-04-27 07:35:19 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-04-27 07:16:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2019-04-27 07:35:19 -0400"
     },
     "done": true
   },
@@ -1025,15 +1025,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2019-04-27 08:02:51 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-04-27 07:09:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2019-04-27 08:02:51 -0400"
     },
     "done": true
   },
@@ -1869,6 +1869,15 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2019-04-27 09:51:19 -0400",
+      "minecraft:sheep": "2019-04-27 09:24:15 -0400",
+      "minecraft:cow": "2019-04-27 10:44:06 -0400",
+      "minecraft:chicken": "2019-04-27 09:58:19 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-04-26 17:29:56 -0400"
@@ -2163,15 +2172,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2019-04-27 07:16:44 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-04-27 07:09:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2019-04-27 07:16:44 -0400"
     },
     "done": true
   },
@@ -2796,6 +2805,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2019-01-19 12:22:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-04-27 09:24:15 -0400"
     },
     "done": true
   },
