@@ -1,0 +1,62 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-05-05 17:32:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-05-05 17:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-05 17:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-05 17:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-05 17:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-05-05 17:30:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-05-05 17:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-05-05 17:32:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-05-05 17:27:52 -0400",
+      "minecraft:mountains": "2019-05-05 17:29:59 -0400",
+      "minecraft:dark_forest": "2019-05-05 17:29:56 -0400",
+      "minecraft:river": "2019-05-05 17:29:58 -0400",
+      "minecraft:wooded_mountains": "2019-05-05 17:30:43 -0400",
+      "minecraft:plains": "2019-05-05 17:29:27 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 1952
+}
