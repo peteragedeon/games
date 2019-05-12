@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-05-12 15:32:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2019-05-05 19:14:15 -0400"
@@ -32,6 +38,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-05-05 19:21:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-05-12 15:35:44 -0400"
     },
     "done": true
   },
@@ -79,6 +91,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2019-05-05 17:32:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-05-12 15:31:13 -0400"
     },
     "done": true
   },
@@ -163,6 +181,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-05 19:14:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-05-12 15:42:30 -0400"
     },
     "done": true
   },

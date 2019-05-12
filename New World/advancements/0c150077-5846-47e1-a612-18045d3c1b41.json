@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2019-05-12 15:35:00 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2019-05-05 18:54:49 -0400"
@@ -65,9 +71,16 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-05-12 15:48:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:mountains": "2019-05-05 17:33:51 -0400",
+      "minecraft:forest": "2019-05-12 15:47:36 -0400",
       "minecraft:dark_forest": "2019-05-05 17:35:13 -0400",
       "minecraft:river": "2019-05-05 17:35:55 -0400",
       "minecraft:wooded_mountains": "2019-05-05 18:51:49 -0400",
