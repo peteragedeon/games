@@ -1,0 +1,151 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-05-15 14:49:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2019-05-15 15:19:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-05-15 15:10:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2019-05-15 14:49:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2019-05-15 15:27:09 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-05-15 15:40:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-05-15 15:25:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-05-15 15:25:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2019-05-15 15:27:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-05-15 15:10:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-05-15 15:25:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2019-05-15 14:49:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/tabby.png": "2019-05-15 15:26:34 -0400",
+      "textures/entity/cat/black.png": "2019-05-15 15:26:31 -0400",
+      "textures/entity/cat/jellie.png": "2019-05-15 15:27:39 -0400",
+      "textures/entity/cat/siamese.png": "2019-05-15 15:26:25 -0400",
+      "textures/entity/cat/ragdoll.png": "2019-05-15 15:26:45 -0400",
+      "textures/entity/cat/british_shorthair.png": "2019-05-15 15:25:14 -0400",
+      "textures/entity/cat/persian.png": "2019-05-15 15:26:29 -0400",
+      "textures/entity/cat/red.png": "2019-05-15 15:26:44 -0400",
+      "textures/entity/cat/calico.png": "2019-05-15 15:26:27 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2019-05-15 14:42:55 -0400",
+      "minecraft:snowy_mountains": "2019-05-15 14:44:12 -0400",
+      "minecraft:mountains": "2019-05-15 14:43:08 -0400",
+      "minecraft:taiga": "2019-05-15 14:43:01 -0400",
+      "minecraft:deep_cold_ocean": "2019-05-15 14:57:30 -0400",
+      "minecraft:snowy_tundra": "2019-05-15 14:44:22 -0400",
+      "minecraft:desert": "2019-05-15 15:31:51 -0400",
+      "minecraft:frozen_river": "2019-05-15 14:44:31 -0400",
+      "minecraft:deep_frozen_ocean": "2019-05-15 14:42:43 -0400",
+      "minecraft:birch_forest": "2019-05-15 15:13:10 -0400",
+      "minecraft:beach": "2019-05-15 14:43:06 -0400",
+      "minecraft:river": "2019-05-15 14:43:00 -0400",
+      "minecraft:wooded_mountains": "2019-05-15 14:48:09 -0400",
+      "minecraft:wooded_hills": "2019-05-15 14:40:26 -0400",
+      "minecraft:stone_shore": "2019-05-15 14:43:07 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2019-05-15 15:25:14 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 1957
+}
