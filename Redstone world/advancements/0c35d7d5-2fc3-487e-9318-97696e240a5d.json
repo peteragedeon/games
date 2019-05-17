@@ -587,13 +587,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2019-01-18 14:28:23 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2019-01-18 14:28:23 -0500"
     },
@@ -1247,5 +1247,5 @@
     },
     "done": true
   },
-  "DataVersion": 1952
+  "DataVersion": 1957
 }
