@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2019-05-17 15:50:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-19 19:16:18 -0400"
@@ -198,12 +204,6 @@
     "done": true
   },
   "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2018-05-06 15:04:27 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2018-05-06 15:04:27 -0400"
     },
@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2019-05-17 15:50:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2018-08-04 11:03:41 -0400"
@@ -542,12 +548,6 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2018-07-19 19:16:18 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
-    "criteria": {
-      "has_black_dye": "2018-08-04 10:57:54 -0400"
     },
     "done": true
   },
@@ -629,13 +629,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-08-12 15:08:30 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-08-12 15:08:30 -0400"
     },
@@ -1111,8 +1111,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2018-04-07 21:06:03 -0400",
       "minecraft:mountains": "2018-04-07 21:08:30 -0400",
+      "minecraft:forest": "2018-04-07 21:06:03 -0400",
       "minecraft:taiga": "2018-04-07 21:08:25 -0400",
       "minecraft:desert_hills": "2018-07-19 19:00:55 -0400",
       "minecraft:desert": "2018-05-07 21:12:20 -0400",
@@ -1121,8 +1121,8 @@
       "minecraft:savanna_plateau": "2018-07-20 18:23:40 -0400",
       "minecraft:beach": "2018-07-19 19:06:18 -0400",
       "minecraft:dark_forest": "2018-04-07 21:04:49 -0400",
-      "minecraft:river": "2018-04-07 21:04:26 -0400",
       "minecraft:lukewarm_ocean": "2018-07-19 19:01:49 -0400",
+      "minecraft:river": "2018-04-07 21:04:26 -0400",
       "minecraft:birch_forest_hills": "2018-05-06 15:51:22 -0400",
       "minecraft:wooded_mountains": "2018-04-07 21:29:02 -0400",
       "minecraft:wooded_hills": "2018-04-07 21:05:42 -0400",
@@ -1206,6 +1206,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2018-05-06 15:42:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2019-05-17 15:50:59 -0400"
     },
     "done": true
   },
@@ -1352,5 +1358,6 @@
       "has_bed": "2018-08-12 15:23:06 -0400"
     },
     "done": true
-  }
+  },
+  "DataVersion": 1957
 }
