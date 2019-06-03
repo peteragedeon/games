@@ -1,37 +1,19 @@
 {
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
-      "slept_in_bed": "2019-05-15 14:49:54 -0400"
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-06-02 17:38:08 -0400"
     },
     "done": true
   },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2019-05-15 14:51:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2019-05-15 15:19:45 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2019-05-15 15:10:53 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2019-05-15 14:51:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2019-05-15 14:49:14 -0400"
     },
     "done": true
   },
@@ -47,21 +29,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/redstone/oak_button": {
     "criteria": {
-      "has_salmon": "2019-05-15 15:25:02 -0400"
+      "has_planks": "2019-06-02 17:44:22 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "in_water": "2019-05-15 14:51:21 -0400"
+      "has_book": "2019-06-02 17:38:08 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "in_water": "2019-05-15 14:51:21 -0400"
+      "has_book": "2019-06-02 17:38:08 -0400"
     },
     "done": true
   },
@@ -77,27 +59,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
-      "killed_something": "2019-05-15 15:10:14 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2019-05-15 14:51:21 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2019-05-15 15:25:02 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2019-05-15 14:51:21 -0400"
+      "has_planks": "2019-06-02 17:44:22 -0400"
     },
     "done": true
   },
@@ -126,6 +90,7 @@
       "minecraft:cold_ocean": "2019-05-15 14:42:55 -0400",
       "minecraft:snowy_mountains": "2019-05-15 14:44:12 -0400",
       "minecraft:mountains": "2019-05-15 14:43:08 -0400",
+      "minecraft:forest": "2019-06-02 17:32:33 -0400",
       "minecraft:taiga": "2019-05-15 14:43:01 -0400",
       "minecraft:deep_cold_ocean": "2019-05-15 14:57:30 -0400",
       "minecraft:snowy_tundra": "2019-05-15 14:44:22 -0400",
@@ -137,9 +102,136 @@
       "minecraft:river": "2019-05-15 14:43:00 -0400",
       "minecraft:wooded_mountains": "2019-05-15 14:48:09 -0400",
       "minecraft:wooded_hills": "2019-05-15 14:40:26 -0400",
-      "minecraft:stone_shore": "2019-05-15 14:43:07 -0400"
+      "minecraft:stone_shore": "2019-05-15 14:43:07 -0400",
+      "minecraft:plains": "2019-06-02 17:27:07 -0400"
     },
     "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-05-15 14:49:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2019-05-15 15:10:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2019-05-15 15:19:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2019-05-15 14:49:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-05-15 15:25:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2019-05-15 15:10:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2019-06-02 17:44:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-05-15 14:51:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-05-15 15:25:02 -0400"
+    },
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
