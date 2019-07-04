@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2019-06-29 13:58:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2019-06-22 17:17:35 -0400"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2019-06-22 17:51:18 -0400"
@@ -551,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-29 13:55:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-05-05 15:36:02 -0400"
@@ -572,6 +590,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-06 07:27:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2019-06-29 13:18:46 -0400"
     },
     "done": true
   },
@@ -647,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-06-29 13:10:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-05-05 14:56:23 -0400"
@@ -662,6 +692,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-06-22 13:47:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
     },
     "done": true
   },
@@ -953,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2019-06-29 13:58:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-05-05 15:19:30 -0400"
@@ -967,11 +1009,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2019-06-22 13:57:37 -0400",
       "minecraft:jungle_edge": "2019-06-22 18:51:36 -0400",
-      "minecraft:forest": "2019-05-05 15:07:43 -0400",
-      "minecraft:mountains": "2019-06-22 12:53:49 -0400",
+      "minecraft:cold_ocean": "2019-06-22 13:57:37 -0400",
       "minecraft:badlands_plateau": "2019-06-22 18:56:22 -0400",
+      "minecraft:mountains": "2019-06-22 12:53:49 -0400",
+      "minecraft:forest": "2019-05-05 15:07:43 -0400",
       "minecraft:taiga": "2019-05-06 06:59:45 -0400",
       "minecraft:desert_hills": "2019-06-23 08:03:06 -0400",
       "minecraft:giant_tree_taiga": "2019-06-22 11:48:47 -0400",
@@ -984,8 +1026,8 @@
       "minecraft:badlands": "2019-06-22 18:52:06 -0400",
       "minecraft:beach": "2019-05-06 07:28:28 -0400",
       "minecraft:dark_forest": "2019-06-22 12:40:29 -0400",
-      "minecraft:river": "2019-06-22 11:45:13 -0400",
       "minecraft:lukewarm_ocean": "2019-06-22 18:41:51 -0400",
+      "minecraft:river": "2019-06-22 11:45:13 -0400",
       "minecraft:birch_forest_hills": "2019-06-22 13:33:08 -0400",
       "minecraft:wooded_mountains": "2019-06-22 12:54:23 -0400",
       "minecraft:wooded_hills": "2019-05-24 07:40:25 -0400",
@@ -1056,6 +1098,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2019-06-29 13:11:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-06-22 17:28:07 -0400"
@@ -1065,6 +1113,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-05-05 15:19:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2019-06-29 14:24:06 -0400"
     },
     "done": true
   },
@@ -1146,6 +1200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2019-06-29 13:18:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-05-05 15:06:36 -0400"
@@ -1200,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-06-29 13:10:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2019-06-22 15:45:01 -0400"
@@ -1227,6 +1293,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-06-22 15:11:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-29 13:55:06 -0400"
     },
     "done": true
   },
@@ -1350,9 +1422,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-29 13:55:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2019-05-05 15:36:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-06-29 13:10:23 -0400"
     },
     "done": true
   },
@@ -1392,6 +1476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2019-06-22 12:49:02 -0400"
@@ -1404,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2019-05-05 15:19:30 -0400"
@@ -1413,6 +1509,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2019-06-22 13:47:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-29 13:55:06 -0400"
     },
     "done": true
   },
@@ -1482,6 +1584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2019-06-29 13:10:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2019-05-06 07:28:31 -0400"
@@ -1527,6 +1635,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-05-05 15:11:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2019-06-29 13:18:46 -0400"
     },
     "done": true
   },
@@ -1611,6 +1725,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-06-22 18:52:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-06-29 13:10:23 -0400"
     },
     "done": true
   },
@@ -1752,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-06-29 13:10:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-05-05 15:24:33 -0400"
@@ -1773,6 +1899,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2019-05-06 06:58:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2019-06-29 13:58:35 -0400"
     },
     "done": true
   },
@@ -1803,6 +1935,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-06-22 13:47:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-06-29 13:10:44 -0400"
     },
     "done": true
   },
@@ -1962,6 +2100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-29 13:55:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-05-05 15:06:36 -0400"
@@ -1971,6 +2115,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2019-05-05 15:20:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2019-06-29 13:55:06 -0400"
     },
     "done": true
   },
@@ -2088,6 +2238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_jungle_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2019-06-22 15:43:03 -0400"
@@ -2160,9 +2316,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-06-22 17:28:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2019-06-29 13:58:35 -0400"
     },
     "done": true
   },
@@ -2250,6 +2418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2019-05-05 15:10:07 -0400"
@@ -2292,6 +2466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2019-05-05 15:28:45 -0400"
@@ -2307,6 +2487,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2019-06-22 13:47:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2019-06-29 14:02:46 -0400"
     },
     "done": true
   },
@@ -2376,5 +2562,5 @@
     },
     "done": true
   },
-  "DataVersion": 1963
+  "DataVersion": 1968
 }
