@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-07-30 22:47:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2018-09-08 16:50:13 -0400"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-07-30 22:47:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2018-09-08 17:29:52 -0400"
@@ -1384,6 +1396,7 @@
     "criteria": {
       "minecraft:cold_ocean": "2019-03-09 15:19:42 -0500",
       "minecraft:jungle_edge": "2019-06-22 18:51:38 -0400",
+      "minecraft:snowy_mountains": "2019-07-30 19:57:51 -0400",
       "minecraft:forest": "2018-09-08 15:41:11 -0400",
       "minecraft:mountains": "2019-01-19 15:21:15 -0500",
       "minecraft:badlands_plateau": "2019-06-22 18:55:57 -0400",
@@ -1391,10 +1404,16 @@
       "minecraft:desert_hills": "2018-09-08 15:40:20 -0400",
       "minecraft:giant_tree_taiga": "2018-09-08 15:38:05 -0400",
       "minecraft:deep_cold_ocean": "2019-06-22 13:57:04 -0400",
+      "minecraft:snowy_tundra": "2019-07-30 18:57:05 -0400",
       "minecraft:taiga_hills": "2018-09-08 15:40:11 -0400",
       "minecraft:desert": "2018-09-08 15:37:39 -0400",
+      "minecraft:frozen_river": "2019-07-30 18:57:04 -0400",
       "minecraft:jungle": "2019-06-22 18:51:45 -0400",
       "minecraft:birch_forest": "2019-01-19 15:31:25 -0500",
+      "minecraft:jungle_hills": "2019-07-30 21:37:39 -0400",
+      "minecraft:snowy_beach": "2019-07-30 20:03:10 -0400",
+      "minecraft:bamboo_jungle": "2019-07-30 21:39:56 -0400",
+      "minecraft:warm_ocean": "2019-07-30 19:18:11 -0400",
       "minecraft:deep_lukewarm_ocean": "2019-01-19 12:05:30 -0500",
       "minecraft:badlands": "2019-06-22 18:54:43 -0400",
       "minecraft:savanna_plateau": "2019-01-19 16:13:48 -0500",
@@ -1402,6 +1421,7 @@
       "minecraft:dark_forest": "2019-06-22 12:40:23 -0400",
       "minecraft:lukewarm_ocean": "2018-12-08 11:47:29 -0500",
       "minecraft:river": "2018-09-08 15:37:54 -0400",
+      "minecraft:snowy_taiga": "2019-07-30 20:03:31 -0400",
       "minecraft:birch_forest_hills": "2019-01-19 15:32:20 -0500",
       "minecraft:wooded_mountains": "2019-01-19 15:21:10 -0500",
       "minecraft:wooded_hills": "2018-09-08 15:44:04 -0400",
@@ -1612,6 +1632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2019-07-30 21:41:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-04-27 08:02:51 -0400"
@@ -1789,6 +1815,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2018-11-10 16:02:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-07-30 22:11:28 -0400"
     },
     "done": true
   },
@@ -2593,6 +2625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-07-30 19:59:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-11-03 18:28:01 -0400"
@@ -2794,6 +2832,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-06-29 13:54:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2019-07-30 21:41:02 -0400"
     },
     "done": true
   },
@@ -3400,6 +3444,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2019-04-27 07:09:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-07-30 22:47:04 -0400"
     },
     "done": true
   },
