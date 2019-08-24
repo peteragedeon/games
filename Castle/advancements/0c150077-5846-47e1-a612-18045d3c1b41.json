@@ -128,6 +128,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2019-08-06 08:28:37 -0400",
       "minecraft:wooded_hills": "2019-05-12 16:43:59 -0400",
       "minecraft:plains": "2019-07-24 16:59:24 -0400"
     },

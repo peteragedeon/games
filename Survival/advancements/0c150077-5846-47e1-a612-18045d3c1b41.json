@@ -19,7 +19,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2019-08-07 09:21:44 -0400",
+      "minecraft:forest": "2019-08-07 09:13:32 -0400",
+      "minecraft:mountains": "2019-08-07 09:16:33 -0400",
+      "minecraft:badlands_plateau": "2019-08-07 09:37:11 -0400",
       "minecraft:taiga": "2019-07-31 09:44:38 -0400",
+      "minecraft:desert_hills": "2019-08-07 09:23:40 -0400",
+      "minecraft:giant_tree_taiga": "2019-08-07 09:14:33 -0400",
+      "minecraft:taiga_hills": "2019-08-07 09:17:18 -0400",
+      "minecraft:desert": "2019-08-07 09:21:19 -0400",
+      "minecraft:jungle": "2019-08-07 09:21:34 -0400",
+      "minecraft:jungle_hills": "2019-08-07 09:22:00 -0400",
+      "minecraft:deep_lukewarm_ocean": "2019-08-07 09:15:35 -0400",
+      "minecraft:badlands": "2019-08-07 09:35:30 -0400",
+      "minecraft:beach": "2019-08-07 09:15:24 -0400",
+      "minecraft:river": "2019-08-07 09:15:27 -0400",
+      "minecraft:lukewarm_ocean": "2019-08-07 09:15:32 -0400",
+      "minecraft:wooded_hills": "2019-08-07 09:16:06 -0400",
+      "minecraft:giant_tree_taiga_hills": "2019-08-07 09:14:37 -0400",
+      "minecraft:savanna": "2019-08-07 09:22:53 -0400",
       "minecraft:plains": "2019-07-31 09:43:45 -0400"
     },
     "done": false
