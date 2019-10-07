@@ -1,0 +1,21 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2019-09-27 20:55:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2019-09-27 20:46:05 -0400",
+      "minecraft:desert_hills": "2019-09-27 20:50:41 -0400",
+      "minecraft:desert": "2019-09-27 20:50:14 -0400",
+      "minecraft:birch_forest": "2019-09-27 20:46:03 -0400",
+      "minecraft:dark_forest": "2019-09-27 20:50:10 -0400",
+      "minecraft:wooded_mountains": "2019-09-27 20:47:26 -0400",
+      "minecraft:plains": "2019-09-27 20:45:44 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 1963
+}
