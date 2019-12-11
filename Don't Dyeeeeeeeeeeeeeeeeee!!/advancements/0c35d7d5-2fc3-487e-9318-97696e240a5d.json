@@ -1319,6 +1319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2019-12-10 19:05:13 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-10-29 20:36:34 -0400"
@@ -1334,6 +1340,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-10-06 20:45:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-12-10 21:11:07 -0500"
     },
     "done": true
   },
@@ -1632,6 +1644,7 @@
       "minecraft:wooded_mountains": "2019-11-01 19:42:38 -0400",
       "minecraft:wooded_hills": "2019-10-06 19:35:29 -0400",
       "minecraft:stone_shore": "2019-10-06 20:04:01 -0400",
+      "minecraft:swamp": "2019-12-10 20:06:02 -0500",
       "minecraft:savanna": "2019-10-06 19:36:01 -0400",
       "minecraft:plains": "2019-10-06 19:27:07 -0400"
     },
@@ -1682,6 +1695,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2019-10-07 20:40:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2019-12-10 19:05:13 -0500"
     },
     "done": true
   },
@@ -2871,6 +2890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2019-12-10 21:11:07 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-10-07 19:56:48 -0400"
@@ -3168,6 +3193,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2019-10-20 20:46:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2019-12-10 20:06:55 -0500"
     },
     "done": true
   },
@@ -3896,6 +3927,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2019-10-06 20:26:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2019-12-10 19:05:13 -0500"
     },
     "done": true
   },
