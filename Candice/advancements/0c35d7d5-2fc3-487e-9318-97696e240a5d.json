@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2019-12-19 12:41:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-22 08:46:43 -0400"
@@ -160,6 +166,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-22 08:46:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-12-19 12:10:59 -0500"
     },
     "done": true
   },
@@ -415,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/composter": {
+    "criteria": {
+      "has_wooden_fences": "2019-12-19 12:44:43 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-22 08:46:43 -0400"
@@ -436,6 +454,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2019-05-15 14:39:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2019-12-19 13:17:19 -0500"
     },
     "done": true
   },
@@ -560,6 +584,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2019-12-19 12:54:25 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2019-06-02 15:29:57 -0400"
@@ -569,6 +599,12 @@
   "minecraft:recipes/misc/diamond_from_smelting": {
     "criteria": {
       "has_diamond_ore": "2019-05-22 08:04:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-12-19 12:45:29 -0500"
     },
     "done": true
   },
@@ -682,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2019-12-19 12:41:51 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-05-22 08:57:21 -0400"
@@ -742,6 +784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2019-12-19 12:29:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-06-02 15:40:57 -0400"
@@ -796,9 +844,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-12-19 12:45:29 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2019-05-15 14:39:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2019-12-19 12:29:50 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-12-19 12:48:05 -0500"
     },
     "done": true
   },
@@ -886,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-12-19 13:17:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2019-05-15 14:39:28 -0400"
@@ -901,6 +973,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-05-15 14:39:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2019-12-19 12:31:38 -0500"
     },
     "done": true
   },
@@ -931,6 +1009,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-06-02 15:40:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-12-19 12:45:29 -0500"
     },
     "done": true
   },
@@ -1045,9 +1129,14 @@
       "minecraft:frozen_river": "2019-05-15 14:44:21 -0400",
       "minecraft:deep_frozen_ocean": "2019-05-15 14:39:49 -0400",
       "minecraft:birch_forest": "2019-05-15 15:13:08 -0400",
+      "minecraft:savanna_plateau": "2019-12-19 13:04:51 -0500",
       "minecraft:beach": "2019-05-15 14:45:22 -0400",
       "minecraft:river": "2019-05-15 14:46:12 -0400",
+      "minecraft:birch_forest_hills": "2019-12-19 12:24:34 -0500",
+      "minecraft:wooded_mountains": "2019-12-19 12:02:16 -0500",
+      "minecraft:wooded_hills": "2019-12-19 12:23:11 -0500",
       "minecraft:stone_shore": "2019-05-15 14:43:06 -0400",
+      "minecraft:swamp": "2019-12-19 12:24:09 -0500",
       "minecraft:savanna": "2019-10-22 18:40:03 -0400",
       "minecraft:plains": "2019-06-02 18:00:27 -0400"
     },
@@ -1074,6 +1163,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-05-15 14:39:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-12-19 12:01:10 -0500"
     },
     "done": true
   },
@@ -1125,6 +1220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2019-12-19 13:08:36 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2019-10-22 18:57:15 -0400"
@@ -1134,6 +1235,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2019-11-03 22:29:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2019-12-19 12:01:10 -0500"
     },
     "done": true
   },
@@ -1166,6 +1273,19 @@
       "has_stone": "2019-05-22 08:10:48 -0400"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/tabby.png": "2019-12-19 12:50:14 -0500",
+      "textures/entity/cat/white.png": "2019-12-19 12:48:48 -0500",
+      "textures/entity/cat/black.png": "2019-12-19 12:48:13 -0500",
+      "textures/entity/cat/jellie.png": "2019-12-19 12:50:51 -0500",
+      "textures/entity/cat/ragdoll.png": "2019-12-19 12:49:13 -0500",
+      "textures/entity/cat/british_shorthair.png": "2019-12-19 12:49:47 -0500",
+      "textures/entity/cat/persian.png": "2019-12-19 12:46:33 -0500",
+      "textures/entity/cat/red.png": "2019-12-19 12:51:37 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
@@ -1230,6 +1350,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2019-05-15 14:39:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2019-12-19 12:41:51 -0500"
     },
     "done": true
   },
