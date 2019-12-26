@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/composter": {
-    "criteria": {
-      "has_wooden_fences": "2019-11-04 17:42:13 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2019-11-04 17:24:47 -0500"
@@ -53,13 +47,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-11-04 17:24:47 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2019-11-04 17:24:47 -0500"
     },
@@ -89,22 +83,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2019-11-04 17:26:50 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-11-04 17:24:47 -0500"
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2019-11-04 17:26:50 -0500"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:mountains": "2019-05-05 17:29:59 -0400",
       "minecraft:forest": "2019-05-05 17:27:52 -0400",
+      "minecraft:mountains": "2019-05-05 17:29:59 -0400",
       "minecraft:dark_forest": "2019-05-05 17:29:56 -0400",
       "minecraft:river": "2019-05-05 17:29:58 -0400",
       "minecraft:wooded_mountains": "2019-05-05 17:30:43 -0400",
@@ -175,6 +169,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-05-05 19:14:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2019-12-23 21:13:41 -0500"
     },
     "done": true
   },
@@ -334,6 +334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2019-12-23 21:13:41 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-05-05 17:32:41 -0400"
@@ -376,5 +382,5 @@
     },
     "done": true
   },
-  "DataVersion": 1968
+  "DataVersion": 2227
 }
