@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2020-02-04 20:05:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-10-06 20:45:42 -0400"
@@ -1061,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-02-04 20:05:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2019-10-07 20:13:06 -0400"
@@ -1268,6 +1280,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_cyan_dye": "2019-11-15 11:37:36 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-02-04 20:05:17 -0500"
     },
     "done": true
   },
@@ -1607,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2020-02-04 20:05:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2019-10-06 20:45:50 -0400"
@@ -1694,8 +1718,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2019-10-06 19:49:28 -0400",
-      "minecraft:mountains": "2019-10-06 20:03:54 -0400",
       "minecraft:forest": "2019-10-06 19:28:13 -0400",
+      "minecraft:mountains": "2019-10-06 20:03:54 -0400",
       "minecraft:taiga": "2019-10-06 20:12:56 -0400",
       "minecraft:desert_hills": "2019-10-06 19:31:18 -0400",
       "minecraft:deep_cold_ocean": "2019-10-07 21:02:56 -0400",
@@ -1710,8 +1734,8 @@
       "minecraft:savanna_plateau": "2019-10-06 19:36:19 -0400",
       "minecraft:beach": "2019-10-06 19:28:12 -0400",
       "minecraft:dark_forest": "2019-10-06 20:15:05 -0400",
-      "minecraft:lukewarm_ocean": "2019-10-06 19:28:20 -0400",
       "minecraft:river": "2019-10-06 19:33:18 -0400",
+      "minecraft:lukewarm_ocean": "2019-10-06 19:28:20 -0400",
       "minecraft:birch_forest_hills": "2019-10-06 19:30:16 -0400",
       "minecraft:wooded_mountains": "2019-11-01 19:42:38 -0400",
       "minecraft:wooded_hills": "2019-10-06 19:35:29 -0400",
@@ -2295,6 +2319,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-11-03 06:35:33 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2020-02-04 20:05:17 -0500"
     },
     "done": true
   },
@@ -3340,6 +3370,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-02-04 20:05:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-10-07 20:40:10 -0400"
@@ -3754,6 +3790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-02-04 20:05:17 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2019-10-27 19:49:21 -0400"
@@ -3865,6 +3907,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-10-27 16:00:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-02-04 20:05:17 -0500"
     },
     "done": true
   },
@@ -4050,5 +4098,5 @@
     },
     "done": true
   },
-  "DataVersion": 2227
+  "DataVersion": 2230
 }
